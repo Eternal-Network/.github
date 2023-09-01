@@ -13,14 +13,15 @@
   </p>
 </p>
 
-### About
+<h1 align="center">About</h1>
+
 We are dedicated to ending censorship.
 
 - Bypass Internet Filters
 - Privacy Respecting
 - Open Source
 
-#  Projects
+<h1 align="center">Projects</h1>
 
 **EternalHub**: https://eternal-network.github.io/Eternal-hub/ | [GitHub](https://github.com/Eternal-Network/Eternal-hub)
 <br>
@@ -28,26 +29,3 @@ We are dedicated to ending censorship.
 <br>
 *Status*: Passing | Flagship. 
 
-**Dynamic**: [GitHub](https://github.com/NebulaServices/Dynamic)
-<br>
-*Description*: A new generation interception proxy of technology, designed to make the way you interact with the internet effortlessly fast. Built with the latest technologies and fully written in TypeScript, Dynamic brings you a seamless and effortless web browsing experience.
-<br>
-*Status*: In development. 
-
-**Cyclone**: [GitHub](https://github.com/NebulaServices/Cyclone)
-<br>
-*Description*: A semi-interception web proxy with incredible speed. 
-<br>
-*Status*: **ARCHIVED** - No longer maintained.
-
-**Osana**: [GitHub](https://github.com/NebulaServices/Osana)
-<br>
-*Description*: An interception based web proxy. **ARCHIVED**
-<br>
-*Status*: **ARCHIVED** - No longer maintained. 
-
-**Dispenser**: [GitHub](https://nebulaservices.github.io/Dispenser/)
-<br>
-*Description*: Easily distribute domains to members of a Discord server!
-<br>
-*Status*: Passing, in development.
