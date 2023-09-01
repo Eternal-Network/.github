@@ -1,10 +1,10 @@
-<p>
+<p align="center">
 <img width="120px" src="https://avatars.githubusercontent.com/u/138321129?v=4">
 </p>
 
 <h1  >Eternal Network</h1>
 
-<p>
+<p align="center">
 <a href="https://discord.gg/QGwumCE4"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
 <a href="https://github.com/Eternal-Network"><img height="30px" src="https://img.shields.io/badge/Github-0E0301?style=for-the-badge&logo=github&logoColor=white"><img></a>
   <p>
