@@ -2,7 +2,7 @@
 <img width="120px" src="https://avatars.githubusercontent.com/u/138321129?v=4">
 </p>
 
-<h1  >Eternal Network</h1>
+<h1 align="center">Eternal Network</h1>
 
 <p align="center">
 <a href="https://discord.gg/QGwumCE4"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
