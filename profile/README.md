@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://discord.gg/QGwumCE4"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
-<a href="https://github.com/Eternal-Network"><img height="30px" src="https://img.shields.io/badge/Github-?style=for-the-badge&logo=github&logoColor=white"><img></a>
+<a href="https://github.com/Eternal-Network"><img height="30px" src="https://img.shields.io/badge/Github-0E0301?style=for-the-badge&logo=github&logoColor=white"><img></a>
   <p align="center">
 <a href="https://eternal-network.github.io/"><img src="https://img.shields.io/website?down_message=eternal-network.github.io%20is%20down%20&style=for-the-badge&up_message=eternal-network.github.io%20is%20up%21&url=https%3A%2F%2Fneealdon3.github.io"></img></a>
   </p>
