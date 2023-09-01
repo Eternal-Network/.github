@@ -14,13 +14,15 @@
 </p>
 
 <h1 align="center">About</h1>
-<pre align="center">
-We are dedicated to ending censorship.
+<p align="center">
+  We are dedicated to ending censorship.
+</p>
 
+<p align="center">
 - Bypass Internet Filters
 - Privacy Respecting
 - Open Source
-</pre>
+</p>
 
 <h1 align="center">Projects</h1>
 
