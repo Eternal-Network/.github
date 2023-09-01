@@ -20,8 +20,13 @@
 
 <p align="center">
 - Bypass Internet Filters
+  <p align="center">
 - Privacy Respecting
+  </p>
+
+  <p align="center">
 - Open Source
+    </p>
 </p>
 
 <h1 align="center">Projects</h1>
