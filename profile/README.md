@@ -32,7 +32,12 @@
 
 **EternalHub**: https://eternal-network.github.io/Eternal-hub/ | [GitHub](https://github.com/Eternal-Network/Eternal-hub)
 <br>
-*Description*: Eternal Hub is a web proxy *frontend* with support for hundreds of popular sites.
+*Description*: Eternal Hub is a student hub *frontend* with support for hundreds of popular sites.
 <br>
 *Status*: Passing | Flagship. 
 
+**Quit It!**: https://eternal-network.github.io/Quit-it-/ | [GitHub](https://github.com/Eternal-Network/Quit-it-)
+<br>
+*Description*: Quit it! is a web proxy *frontend* with support for hundreds of popular sites.
+<br>
+*Status*: Passing | Flagship. 
