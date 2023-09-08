@@ -42,8 +42,14 @@
 <br>
 *Status*: Passing | Flagship. 
 
-**Quit It!**: https://eternal-network.github.io/Quit-it-/ | [GitHub](https://github.com/Eternal-Network/Quit-it-)
+**Skool-v3**: https://eternal-network.github.io/skoolgq.github.io/ | [GitHub](https://github.com/Eternal-Network/skoolgq.github.io)
 <br>
-*Description*: Quit it! is a web proxy *frontend* with support for hundreds of popular sites.
+*Description*: Skool-v3 is a new version of skool fixed!
 <br>
 *Status*: Passing | Flagship. 
+
+**DuckOS**: https://eternal-network.github.io/DuckOS/ | [GitHub](https://github.com/Eternal-Network/DuckOS)
+<br>
+*Description*: DuckOS is a fork. :D
+<br>
+*Status*: Not Started 
