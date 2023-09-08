@@ -30,6 +30,12 @@
 
 <h1>Projects</h1>
 
+**Eternal Network** https://eternal-network.github.io/ | [Github](https://github.com/Eternal-Network/Eternal-Network.github.io)
+<br>
+*Description*: Eternal Network is our one and only website!
+<br>
+*Status*: In development.
+
 **EternalHub**: https://eternal-network.github.io/Eternal-hub/ | [GitHub](https://github.com/Eternal-Network/Eternal-hub)
 <br>
 *Description*: Eternal Hub is a student hub *frontend* with support for hundreds of popular sites.
