@@ -12,7 +12,7 @@ jobs:
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ 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 }}
+          committer_token: ${{ screts.GITHUB_TOKEN }}
           committer_branch: metrics
 
           template: classic
