@@ -1,0 +1,96 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+jobs:
+  repositories:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: Eternal-Network
+          template: classic
+          base: repositories
+          base_indepth: yes
+          config_timezone: America/Vancouver
+          plugin_traffic: yes
+          plugin_lines: yes
+
+  activity_community:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: activity_community.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: Eternal-Network
+          template: classic
+          base: activity, community
+          base_indepth: yes
+          config_timezone: America/Vancouver
+
+  iso_calendar_followup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: iso_calendar_followup.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: Eternal-Network
+          template: classic
+          base: ""
+          config_timezone: America/Vancouver
+          plugin_isocalendar: yes
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: user
+
+  habits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: Eternal-Network
+          template: classic
+          base: ""
+          config_timezone: America/Vancouver
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+  achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: Eternal-Network
+          template: classic
+          base: ""
+          config_timezone: America/Vancouver
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
