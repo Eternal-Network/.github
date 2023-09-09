@@ -41,4 +41,4 @@ Configs
 
 
 ## hu
-![Metrics](https://metrics.lecoq.io/neealdon3)
+![Metrics](/github-metrics.svg)
