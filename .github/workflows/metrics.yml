@@ -1,96 +1,65 @@
 name: Metrics
 on:
-  schedule:
-    - cron: "0 7 * * *"
-  workflow_dispatch:
+  schedule: 
+    - cron: "0 18 * * 0"
+  workflow_dispatch: # enabled
+
 jobs:
-  repositories:
+  github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: repositories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: Eternal-Network
-          template: classic
-          base: repositories
-          base_indepth: yes
-          config_timezone: America/Vancouver
-          plugin_traffic: yes
-          plugin_lines: yes
-
-  activity_community:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: activity_community.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: Eternal-Network
-          template: classic
-          base: activity, community
-          base_indepth: yes
-          config_timezone: America/Vancouver
-
-  iso_calendar_followup:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: iso_calendar_followup.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: Eternal-Network
-          template: classic
-          base: ""
-          config_timezone: America/Vancouver
-          plugin_isocalendar: yes
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: user
-
-  habits:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: Eternal-Network
-          template: classic
-          base: ""
-          config_timezone: America/Vancouver
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-
-  achievements:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@master
         with:
-          filename: achievements.svg
+
           token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: Eternal-Network
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+
           template: classic
-          base: ""
-          config_timezone: America/Vancouver
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
+          repositories_affiliations: ''
+          commits_authoring: Eternal-Network
+          config_timezone: Pacific/Auckland # NZT
+
+          plugin_lines: yes
+          plugin_traffic: yes
+
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories, user
+
+          plugin_discussions: yes
+
+          plugin_languages: yes
+          plugin_languages_details: percentage, lines
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_categories: programming
+          plugin_languages_recent_categories: programming, markup
+          plugin_languages_ignored: HTML, CSS, Less, EJS, Nunjucks
+          plugin_languages_other: true
+          #plugin_languages_indepth: yes
+
+          plugin_gists: yes
+
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0 # disable
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+  
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_timestamps: yes
+
+          plugin_code: yes
+
+          plugin_reactions: yes
+          plugin_reactions_details: count
+          plugin_reactions_limit: 200
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 14
+          plugin_wakatime_limit: 4
+          plugin_wakatime_repositories_visibility: public
