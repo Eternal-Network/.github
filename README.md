@@ -3,6 +3,10 @@ Configs
  <!--START_SECTION:activity-->
 
   <!--END_SECTION:activity-->
+
+
+<img src="https://raw.githubusercontent.com/Eternal-Network/Eternal-Network/metrics/github-metrics.svg"></img>
+
 <!-- OTHELLO -->
 <h1 align="center">More Stats!</h1>
 <div align="center">
