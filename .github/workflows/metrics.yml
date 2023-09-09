@@ -11,7 +11,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
 
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: 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 
           committer_token: ${{ screts.GITHUB_TOKEN }}
           committer_branch: metrics
 
