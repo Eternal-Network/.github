@@ -6,7 +6,6 @@ Configs
 
 
 ## users
-### neealdon3
 <details>
 <summary><b>neealdon3</b></summary>
 
