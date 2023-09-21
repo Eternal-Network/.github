@@ -32,7 +32,7 @@
 
 <h1>Projects</h1>
 
-**EternalHub**: https://eternal-hub-offical.onrender.com/ | [GitHub](https://github.com/Eternal-Network/Eternal-hub)
+**EternalHub**: https://github.com/Eternal-Network/Eternal-hub
 <br>
 *Description*: Eternal Hub is a student hub *frontend* with support for hundreds of popular sites.
 <br>
