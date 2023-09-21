@@ -67,11 +67,4 @@
 </details>
 
 ## Services
-- [Holy Unblocker](https://holyubofficial.net)
-- [Incognito](https://incog.dev)
-- [Hypertabs](https://hypertabs.cc)
-- [Terbium](https://terbium.ga)
-- [Illusive](https://illusive.app)
-- [Ludicrous](https://ludicrous.icu)
-- [Nebula](https://nebulaproxy.io)
-- [Radon Games](https://radon.games)
+- Nothing Yet!
