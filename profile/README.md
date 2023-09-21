@@ -32,13 +32,13 @@
 
 <h1>Projects</h1>
 
-**EternalHub**: https://github.com/Eternal-Network/Eternal-hub
+**EternalHub**: https://github.com/Hydrogen-Network/Hydrogen-hub
 <br>
 *Description*: Eternal Hub is a student hub *frontend* with support for hundreds of popular sites.
 <br>
 *Status*: Passing | Flagship. 
 
-**Skool-v3**: https://eternal-network.github.io/skoolgq.github.io/ | [GitHub](https://github.com/Eternal-Network/skoolgq.github.io)
+**Skool-v3**: https://eternal-network.github.io/skoolgq.github.io/ | [GitHub](https://github.com/Hydrogen-Network/skoolgq.github.io)
 <br>
 *Description*: Skool-v3 is a new version of skool fixed!
 <br>
