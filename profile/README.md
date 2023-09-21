@@ -12,6 +12,8 @@
   </p>
 </p>
 
+**Documentation:** https://docs.titaniumnetwork.org
+
 <h1>About</h1>
 <p>
   We are dedicated to ending censorship.
@@ -42,3 +44,49 @@
 <br>
 *Status*: Passing | Flagship. 
 
+
+### Projects
+<details>
+<summary>Overview</summary>
+
+#### Active
+- [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+- [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
+- [Incognito](https://github.com/caracal-js/Incognito)
+- [Hypertabs](https://github.com/B3ATDROP3R/Hypertabs)
+- [Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous)
+
+
+#### Affiliated
+- [Exploits and Hacks](https://github.com/neealdon3/Exploits-and-Hacks)
+- [OG proxy(a template for proxys using dynamic)](https://github.com/neealdon3/og-proxy/tree/master)
+
+#### Old
+- Corrosion
+- Vanadium
+- Reborn
+- Alloy
+- Resilience
+- Via Unblocker (PyDodge)
+- PyDodge B
+- P2
+- Pheonix Reborn
+- Boardwalk
+- TitaniumLite
+- Powermouse
+- Material Unblocker
+- Chat-Utils (cursed)
+- Muun
+- [Athlon1600/php-proxy](https://github.com/Athlon1600/php-proxy)
+
+</details>
+
+### Services
+- [Holy Unblocker](https://holyubofficial.net)
+- [Incognito](https://incog.dev)
+- [Hypertabs](https://hypertabs.cc)
+- [Terbium](https://terbium.ga)
+- [Illusive](https://illusive.app)
+- [Ludicrous](https://ludicrous.icu)
+- [Nebula](https://nebulaproxy.io)
+- [Radon Games](https://radon.games)
