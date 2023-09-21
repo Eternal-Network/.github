@@ -45,11 +45,11 @@
 *Status*: Passing | Flagship. 
 
 
-### Projects
+## Projects
 <details>
 <summary>Overview</summary>
 
-#### Active
+### Active
 - [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
 - [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
 - [Incognito](https://github.com/caracal-js/Incognito)
@@ -57,31 +57,16 @@
 - [Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous)
 
 
-#### Affiliated
+### Affiliated
 - [Exploits and Hacks](https://github.com/neealdon3/Exploits-and-Hacks)
 - [OG proxy(a template for proxys using dynamic)](https://github.com/neealdon3/og-proxy/tree/master)
 
-#### Old
-- Corrosion
-- Vanadium
-- Reborn
-- Alloy
-- Resilience
-- Via Unblocker (PyDodge)
-- PyDodge B
-- P2
-- Pheonix Reborn
-- Boardwalk
-- TitaniumLite
-- Powermouse
-- Material Unblocker
-- Chat-Utils (cursed)
-- Muun
-- [Athlon1600/php-proxy](https://github.com/Athlon1600/php-proxy)
+### Old
+- Nothing yet!
 
 </details>
 
-### Services
+## Services
 - [Holy Unblocker](https://holyubofficial.net)
 - [Incognito](https://incog.dev)
 - [Hypertabs](https://hypertabs.cc)
