@@ -13,8 +13,6 @@
   </p>
 </p>
 
-**Documentation:** https://docs.titaniumnetwork.org
-
 <h1>About</h1>
 <p>
   We are dedicated to ending censorship.
