@@ -49,11 +49,7 @@
 <summary>Overview</summary>
 
 ### Active
-- [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
-- [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
-- [Incognito](https://github.com/caracal-js/Incognito)
-- [Hypertabs](https://github.com/B3ATDROP3R/Hypertabs)
-- [Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous)
+- [Hydrogen Hub](https://github.com/Hydrogen-Network/Hydrogen-hub)
 
 
 ### Affiliated
