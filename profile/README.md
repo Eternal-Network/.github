@@ -9,7 +9,7 @@
 <a href="https://github.com/Eternal-Network"><img height="30px" src="https://img.shields.io/badge/Github-0E0301?style=for-the-badge&logo=github&logoColor=white"><img></a>
 <a href="https://hydrogen-network.gitbook.io/"><img src="https://img.shields.io/badge/Docs-2e8555?style=for-the-badge&logo=gitbook&logoColor=white"></a>
   <p align="center">
-<a href="https://https://hydrogen-network.gitbook.io/"><img src="https://img.shields.io/website?down_messagehttps://hydrogen-network.gitbook.io/%20is%20down%20&style=for-the-badge&up_messagehttps://hydrogen-network.gitbook.io/%20is%20up%21&url=https%3A%2F%2Fhydrogen-network.gitbook.io"></img></a>
+<a href="https://https://hydrogen-network.gitbook.io/"><img src="https://img.shields.io/website?down_messagehttps://hydrogen-network.gitbook.io/%20is%20down%20&style=for-the-badge&up_messagehttps://hydrogen-network.gitbook.io/%20is%20up%20&url=https%3A%2F%2Fhydrogen-network.gitbook.io"></img></a>
   </p>
 </p>
 
