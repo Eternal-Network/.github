@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://discord.gg/QGwumCE4"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
-<a href="https://github.com/Eternal-Network"><img height="30px" src="https://img.shields.io/badge/Github-0E0301?style=for-the-badge&logo=github&logoColor=white"><img></a>
+<a href="https://github.com/Hydrogen-Network"><img height="30px" src="https://img.shields.io/badge/Github-0E0301?style=for-the-badge&logo=github&logoColor=white"><img></a>
 <a href="https://hydrogen-network.gitbook.io/"><img src="https://img.shields.io/badge/Docs-2e8555?style=for-the-badge&logo=gitbook&logoColor=white"></a>
   <p align="center">
 <a href="https://hydrogen-network.gitbook.io/"><img src="https://img.shields.io/website?down_messagehttps://hydrogen-network.gitbook.io/%20is%20down%20&style=for-the-badge&up_messagehttps://hydrogen-network.gitbook.io/%20is%20up%20&url=https%3A%2F%2Fhydrogen-network.gitbook.io"></img></a>
@@ -31,13 +31,13 @@
 
 <h1>Projects</h1>
 
-**EternalHub**: https://github.com/Hydrogen-Network/Hydrogen-hub
+**Hydrogen Hub**: https://hydra-5gqe.onrender.com/ | [Github](https://github.com/Hydrogen-Network/Hydrogen-hub)
 <br>
-*Description*: Eternal Hub is a student hub *frontend* with support for hundreds of popular sites.
+*Description*: Hydrogen Hub is a student hub *frontend* with support for hundreds of popular sites.
 <br>
-*Status*: Passing | Flagship. 
+*Status*: In development
 
-**Skool-v3**: https://eternal-network.github.io/skoolgq.github.io/ | [GitHub](https://github.com/Hydrogen-Network/skoolgq.github.io)
+**Skool-v3**: https://Hydrogen-network.github.io/skoolgq.github.io/ | [GitHub](https://github.com/Hydrogen-Network/skoolgq.github.io)
 <br>
 *Description*: Skool-v3 is a new version of skool fixed!
 <br>
