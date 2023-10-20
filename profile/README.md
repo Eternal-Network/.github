@@ -1,5 +1,7 @@
 <p align="center">
+<kbd>
 <img width="120px" src="https://avatars.githubusercontent.com/u/138321129?v=4">
+</kbd>
 </p>
 
 <h1 align="center">Hydrogen Network</h1>
@@ -13,53 +15,42 @@
   </p>
 </p>
 
-<h1>About</h1>
-<p>
+### About
   We are dedicated to ending censorship.
-</p>
 
 <p>
 - Bypass Internet Filters
   <p>
 - Privacy Respecting
   </p>
-
   <p>
 - Open Source
     </p>
 </p>
 
-<h1>Projects</h1>
-
-**Hydrogen Hub**: https://hydra-5gqe.onrender.com/ | [Github](https://github.com/Hydrogen-Network/Hydrogen-hub)
-<br>
-*Description*: Hydrogen Hub is a student hub *frontend* with support for hundreds of popular sites.
-<br>
-*Status*: In development
-
-**Skool-v3**: https://Hydrogen-network.github.io/skoolgq.github.io/ | [GitHub](https://github.com/Hydrogen-Network/skoolgq.github.io)
-<br>
-*Description*: Skool-v3 is a new version of skool fixed!
-<br>
-*Status*: Passing | Flagship. 
-
-
-## Projects
+### Projects
 <details>
 <summary>Overview</summary>
 
-### Active
-- [Hydrogen Hub](https://github.com/Hydrogen-Network/Hydrogen-hub)
+#### Active
+- [Hydrogen](https://github.com/Hydrogen-Network/Hydrogen-Static)
+- [Hydrigen Proxy](https://github.com/Hydrogen-Network/Hydrogen-Proxy)
+- [Hydrogen AI](https://github.com/Hydrogen-Network/Hydrogen-AI)
+- [Bookmarkletz](https://github.com/Hydrogen-Network/Bookmarkletz)
+- [Skool Better](https://github.com/Hydrogen-Network/hydrogen-network.github.io)
 
-
-### Affiliated
+#### Affiliated
 - [Exploits and Hacks](https://github.com/neealdon3/Exploits-and-Hacks)
 - [OG proxy(a template for proxys using dynamic)](https://github.com/neealdon3/og-proxy/tree/master)
 
-### Old
-- Nothing yet!
+#### Old
+- Hydrogen Node
+- Node Unblocker
 
 </details>
 
-## Services
-- Nothing Yet!
+### Services
+- [Hydrogen](https://brrrrrr.pages.dev/)
+- [Hydrogen AI](https://hydrogen-network.github.io/Hydrogen-AI/)
+- [Bookmarkletz](https://hydrogen-network.github.io/Bookmarkletz/)
+- [Skool(Better)](https://hydrogen-network.github.io)
