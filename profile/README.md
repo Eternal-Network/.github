@@ -33,7 +33,7 @@
 <summary>Overview</summary>
 
 #### Active
-- [Hydrogen](https://github.com/Hydrogen-Network/Hydrogen-Static)
+- [Hydrogen](https://github.com/Hydrogen-Network/Hydrogen)
 - [Hydrigen Proxy](https://github.com/Hydrogen-Network/Hydrogen-Proxy)
 - [Hydrogen AI](https://github.com/Hydrogen-Network/Hydrogen-AI)
 - [Bookmarkletz](https://github.com/Hydrogen-Network/Bookmarkletz)
